@@ -6,7 +6,7 @@
                 @csrf
                 @method('PUT')
                 <div class="form-group">
-                    <label for="name">Name</label>
+                    <label for="name">DASDASDASDAS</label>
                     <input
                         type="text"
                         id="name"
