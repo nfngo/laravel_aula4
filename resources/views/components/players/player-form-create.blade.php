@@ -5,7 +5,7 @@
             <form method="POST" action="{{ url('players') }}">
                 @csrf
                 <div class="form-group">
-                    <label for="name">Name</label>
+                    <label for="name">Hello MotherFucker</label>
                     <input
                         type="text"
                         id="name"
